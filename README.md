@@ -42,7 +42,7 @@ Heavyweight	≥ 93.0
 Under 16
 Under 18
 18 or Above
-📄 File Structure
+  File Structure
 mma_tournament.py   # Main logic for bout creation and result processing
 README.md           # Documentation
 💡 Ideas for Future Enhancements
