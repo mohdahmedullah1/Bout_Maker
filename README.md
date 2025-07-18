@@ -51,7 +51,7 @@ README.md           # Documentation
 🌐 Add GUI or web interface (using Streamlit or Flask)
 🧠 Use AI to generate match outcomes or predict rankings
 📜 License
-This project is open source under the MIT License.
+This project is open source under the MIT  License.
 
 🤝 Contributing
 PRs and forks are welcome! This project can grow into a full-featured fight bracket simulator for martial arts tournaments or gaming leagues.
